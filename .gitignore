@@ -114,9 +114,6 @@ checkpoints/
 datasets/
 *.npy
 
-# Submission
-*.wav
-
 # Hydra outputs
 outputs/
 
